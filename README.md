@@ -1,3 +1,7 @@
+
+
+### This code is associated with the paper from Elber-Dorozko et al., "Striatal action-value neurons reconsidered". eLife, 2018. http://dx.doi.org/10.7554/eLife.34248
+
 # striatal-action-value-neurons-reconsidered-codes
 
 This folder contains all the MATLAB scripts that are used to simulate and analyze neurons and to create the figures. 
